@@ -1,1 +1,3 @@
 # robbysapp
+
+mypassword = "thebestpasswordcant'befound"
